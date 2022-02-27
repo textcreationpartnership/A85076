@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faithful subjects sigh, on the universally-lamented death, and tragicall end, of that virtuous and pious prince, our most gracious soveraigne, Charles I. King of Great Brittaine, most barbarously butchered by his rebellious subjects. / By a gentleman now resident in the court of Spaine.</title>
+            <author>Gentleman now resident in the court of Spaine.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85076</idno>
+            <idno type="STC">Wing F290</idno>
+            <idno type="STC">Thomason E560_4</idno>
+            <idno type="STC">ESTC R201971</idno>
+            <idno type="EEBO-CITATION">99862440</idno>
+            <idno type="PROQUEST">99862440</idno>
+            <idno type="VID">165189</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165189)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E560[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faithful subjects sigh, on the universally-lamented death, and tragicall end, of that virtuous and pious prince, our most gracious soveraigne, Charles I. King of Great Brittaine, most barbarously butchered by his rebellious subjects. / By a gentleman now resident in the court of Spaine.</title>
+                  <author>Gentleman now resident in the court of Spaine.</author>
+               </titleStmt>
+               <extent>[2], 5 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>P. 6 misnumbered 5.</note>
+                  <note>Annotation on Thomason copy: "June 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Death and burial --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165189:1"/>
+            <p>A FAITHFUL SUBJECT'S SIGH, ON The univerſally-lamented Death, and Tragicall End, of that Virtuous and Pious PRINCE, our moſt Gracious Soveraigne, CHARLES I.</p>
+            <p>King of Great Brittaine, moſt Barbarouſly Butchered by His Rebellious Subjects.</p>
+            <p>By a Gentleman now reſident in the Court of Spaine.</p>
+            <p>Printed in the Year, 1649.</p>
+         </div>
+         <div type="anagram">
+            <pb facs="tcp:165189:2"/>
+            <p>
+               <hi>CAROL<g ref="char:V">Ʋ</g>S ST<g ref="char:V">Ʋ</g>ART<g ref="char:V">Ʋ</g>S, Scotus, Magnae Britanniae,</hi> REX.</p>
+            <p>Anagramma.</p>
+            <p>
+               <hi>AGN<g ref="char:V">Ʋ</g>S CANIB<g ref="char:V">Ʋ</g>S Eſus, Corona exaltatur, Martyr eſt.</hi>
+            </p>
+         </div>
+         <div type="chronogram">
+            <head>Chronogramma.</head>
+            <p>CharLs<seg rend="below">150</seg> 
+               <hi>the</hi> trVe<seg rend="below">5</seg> PICtVre<seg rend="below">106</seg> 
+               <hi>of</hi> ChrIſt<seg rend="below">101</seg> CrVCIfI'D<seg rend="below">707</seg>,</p>
+            <p>
+               <hi>Great</hi> BrIttaIn's<seg rend="below">2</seg> VertVoVs<seg rend="below">15</seg> KIng<seg rend="below">1</seg> noVV<seg rend="below">10</seg> GLorIfI'D<seg rend="below">552</seg>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:165189:2"/>
+            <head>A Faithfull Subjects Sigh, &amp;c.</head>
+            <lg>
+               <l>FAme ſpeak it ſoftly, in thy loweſt tone,</l>
+               <l>Elſe ſay He lives ſtill; though (alas!) he's gone.</l>
+               <l>Our King hath chang'd His Court for Heavens <hi>White-hall,</hi>
+               </l>
+               <l>There He Reignes free, but here He liv'd in Thrall.</l>
+               <l>To th'upper-houſe of Heav'n for all His wrongs</l>
+               <l>He now appeales, where no Tumultuous throngs</l>
+               <l>Of Commons may Intrude for Juſtice calling;</l>
+               <l>Which comes with vengeance on ye (Leave your bawling)</l>
+               <l>And will commit you all to her <hi>Black-rod,</hi>
+               </l>
+               <l>Then Vote'gainſt the <hi>Star-Chamber</hi> of your God;</l>
+               <l>Bold, matchleſſe villaines, as ye have pull'd downe</l>
+               <l>His Throne on Earth, and ſtampt upon His Crowne.</l>
+               <l>Old Time! I challenge thee to match but this</l>
+               <l>Moſt horrid Treaſon, and from thy Abiſſe</l>
+               <l>Of Monuments, and darke <hi>Lethaean</hi> Cell</l>
+               <l>Where Monſters ſleep, draw one to Parallel</l>
+               <l>The <hi>Engliſh</hi> Rebell; rake Hell and extract</l>
+               <l>From thy worme-eaten blinde Records, an Act</l>
+               <l>So black, ſo Helliſh; as, when <hi>Charls</hi> now ſlaine,</l>
+               <l>Was paſt by Subjects on a <hi>Soveraigne:</hi>
+               </l>
+               <l>Time draw the Curtaines of <hi>Antiquity,</hi>
+               </l>
+               <l>Shew ſuch a cruell bold impiety.</l>
+               <l>But yet re-draw them, and ſtrive to conceale</l>
+               <l>Our ſhame, our wretched ſhame; oh don't reveale,</l>
+               <pb n="2" facs="tcp:165189:3"/>
+               <l>How much our Gyant-Traytors have out-went</l>
+               <l>And over-grown thy Pigmy-Preſident.</l>
+               <l>Oh for poor <hi>Englands</hi> honour, let it not</l>
+               <l>Be ſaid the <hi>Engliſh</hi> ſhould exceed the <hi>Scot</hi>
+               </l>
+               <l>In Treaſon and Diſloyaltie! that ſhee,</l>
+               <l>Who was Heav'ns Condidate, ſhould branded be,</l>
+               <l>And ſtigmatiz'd with ſuch foule Infamy;</l>
+               <l>That ſhee, who for the lap of <hi>Gregory,</hi>
+               </l>
+               <l>Was Great with Angels once, ſhould now diſgrace</l>
+               <l>Her former Births, thus with a ſpurious race</l>
+               <l>Of Divels; Now what will be anſwered</l>
+               <l>To thoſe that aſke me for thy <hi>Churches Head?</hi>
+               </l>
+               <l>Poor <hi>England!</hi> Now thy Head is Triumphant,</l>
+               <l>Whilſt that thy Church is truely Militant.</l>
+               <l>Thou for thy <hi>Lucius,</hi> that wert ſo renown'd,</l>
+               <l>Mother to th' Firſt baptized Monarch Crown'd;</l>
+               <l>Who forth' Firſt Chriſtian wert Glorify'd,</l>
+               <l>Un-Chriſtian-like, thy King firſt Crucify'd.</l>
+               <l>Thou to whoſe pious wombe (like a rich mine)</l>
+               <l>Teem'd Chriſt's firſt Enſigne-bearer, <hi>Constantine,</hi>
+               </l>
+               <l>The eldeſt Chriſtian <hi>Caeſar,</hi> ſhould'ſt now lie</l>
+               <l>Impregnated within this curſt progeny</l>
+               <l>Of Vipers; moſt true Vipers, that do knaw</l>
+               <l>Their way to life through their poor Mothers maw:</l>
+               <l>Nay, baſe unnaturall wormes, when borne, theſe ſuckt</l>
+               <l>Her breſt Heart-bloud out; left not till they pluckt</l>
+               <l>Their Mothers Head off. Where's S<hi rend="sup">t</hi> 
+                  <hi>George?</hi> Appear</l>
+               <l>For <hi>England</hi> now with thy victorious Spear,</l>
+               <l>Againſt a <hi>Dragon</hi> ready to devoure</l>
+               <l>Thy bleeding Lady, quickly from its power;</l>
+               <l>Redeeme thy <hi>England,</hi> like her Champion,</l>
+               <l>And kill this <hi>Hydra,</hi> nurſt in <hi>Alcoran;</hi>
+               </l>
+               <pb n="3" facs="tcp:165189:3"/>
+               <l>That hath an hundred Heads, and from each ſpets</l>
+               <l>'Gainſt God himſelf, its loathſome venom'd threats,</l>
+               <l>Hath his Vicegerent ſlaine, whom Innocent</l>
+               <l>Of th'ſubtile windings of a <hi>Parliament;</hi>
+               </l>
+               <l>Which (like this monſtrous Serpent's Taile) Him caught,</l>
+               <l>Involv'd within its poys'nous wreaths, and wrought</l>
+               <l>By thoſe falſe Treach'rous foldings, and made-Laws</l>
+               <l>Within the reach of thoſe curſt Devils-claws,</l>
+               <l>That now have Butcher'd Him. Oh with what face</l>
+               <l>Could they impeach the ſacred divine Grace</l>
+               <l>Of ſo great Majeſty, and not ſtruck Blind</l>
+               <l>With the bright rayes thereof! as once we find</l>
+               <l>Thoſe <hi>Sodomitick</hi> troopes were juſt ſo bent</l>
+               <l>'Gainſt thoſe two Heavenly Courtiers to <hi>Lot</hi> ſent;</l>
+               <l>As now 'gainſt this Angelick <hi>Hero,</hi> thoſe</l>
+               <l>Baſe <hi>Buggerers</hi> of Freedome, Heavens foes!</l>
+               <l>How chance there flew not Fire-bals from thoſe Eyes</l>
+               <l>(Thoſe dread Celeſtiall Torches) ſuch vile Flyes,</l>
+               <l>Such ſwarmes of <hi>Waſpes</hi> and <hi>Beetles</hi> to reduce</l>
+               <l>And ſcorch to Atomes, that durſt to Accuſe</l>
+               <l>So Good, So Great a King? but what Damn'd Slave</l>
+               <l>What Stygian Raſcall was't the <hi>SENTENCE</hi> gave,</l>
+               <l>And could condemne his <hi>PRINCE;</hi> nay, and to dye</l>
+               <l>By th'Fatall Axe of Traytors, Publiquely?</l>
+               <l>Wonder ye Heav'ns, the Earth clave not aſunder</l>
+               <l>To ſwallow ſuch a Judge! and through him under</l>
+               <l>The Bench of <hi>Radamanthus,</hi> there to feele</l>
+               <l>The vulture, Furies whip, <hi>Ixion's</hi> wheele,</l>
+               <l>Whilſt all the Hiſſing Convent of Hell prye,</l>
+               <l>Amaz'd to ſee ſo ſtrange a <hi>Prodigie;</hi>
+               </l>
+               <l>And bluſh, a Moderne Rogue to come Behinde.</l>
+               <l>But could Three-headed <hi>Cerberus,</hi> that black Fiend,</l>
+               <pb n="4" facs="tcp:165189:4"/>
+               <l>That ſnarling Curre of <hi>Pluto's</hi> Kitchin, get</l>
+               <l>On one of the Three ſnakie Siſters, yet</l>
+               <l>So foule a Monſter, as could dare to be</l>
+               <l>The Actor of ſo dire a Tragedy:</l>
+               <l>And put in Execution that Black Deed,</l>
+               <l>Making his Gracious, Sacred Soveraign Bleed!</l>
+               <l>O Yron-heart! O Rockie Soule! not reele</l>
+               <l>With a Repentant Palſie, when the Steele</l>
+               <l>He brandiſht o're That Head! O cruell ſtroke</l>
+               <l>That hath cut downe <hi>Druina's Royall Oake;</hi>
+               </l>
+               <l>When the hard Axe wept Teares of Bloud, and He</l>
+               <l>That held it, Flinty-breaſted unmov'd See</l>
+               <l>Ne're ſtagg'ring at the Act! And could the Sun</l>
+               <l>Still hold his journey, and not frighted run</l>
+               <l>Behinde the Cloudes, there put on ſable weeds,</l>
+               <l>And from the Eaſt diſpatch his Fiery ſteeds</l>
+               <l>Back ward unto the Weſt; withdraw his light,</l>
+               <l>And in that Morne bid this darke World Good-night!</l>
+               <l>Or could Dame nature unrelenting keep</l>
+               <l>Her conſtant courſe! 'Tis true ſhe made Heaven weepe</l>
+               <l>In an abundant manner; for the Skies</l>
+               <l>In Tears ſeem'd to diſſolve at's Obſequies.</l>
+               <l>But no more ſhew of Sorrow? 'Tis moſt ſtrange</l>
+               <l>Nature infring'd thus, made no greater change;</l>
+               <l>Shifting her weeke-dayes Garments for His ſake</l>
+               <l>To put on mourning Robes; would ſhe not take</l>
+               <l>No Livery of <hi>Luto,</hi> nor vouchſafe to wear</l>
+               <l>No badge of Grief, nor anger to cauſe fear</l>
+               <l>In thoſe remorſleſſe villains, and to ſhake</l>
+               <l>Their cruell Hearts with Terrour, by Earth-quake</l>
+               <l>Or Blazing-Star, and Comet fiery red,</l>
+               <l>To make thoſe Doggs know whom they murdered?</l>
+               <pb n="5" facs="tcp:165189:4"/>
+               <l>True, Grandame Nature, thou did'ſt well reſent</l>
+               <l>Thy God our Saviours Paſſion, thou did'ſt rent</l>
+               <l>The Temples vale aſunder, and did'ſt ſplit</l>
+               <l>The vaults ofth' Earth, which ſuch an Ague fit</l>
+               <l>Lay trembling in, that therewithall ſhe wak'd</l>
+               <l>The ſleeping Ghoſts, out of their darke Tombes ſhak'd,</l>
+               <l>To ſtand and wonder at that darker Night</l>
+               <l>When thou had'ſt ſpread black curtaines o're the Light,</l>
+               <l>To ſolemnize <hi>Chriſt's</hi> funer all rights; but know</l>
+               <l>A Truer Symbole of our Chriſt then now</l>
+               <l>Ne're ſuffered ſince; then ſurely for His ſake</l>
+               <l>Some lamentable change thou ought'ſt to make,</l>
+               <l>O're our moſt Gracious Soveraign now dead,</l>
+               <l>By His owne People (baſe <hi>Jewes</hi>) Martyred:</l>
+               <l>And 'twixt two Theeves too, <hi>Crucified,</hi> which were</l>
+               <l>The <hi>INDEPENDENT</hi> and the <hi>PRESBYTER.</hi>
+               </l>
+               <l>And as the Chief Prieſts and the <hi>Phariſees</hi>
+               </l>
+               <l>Held Councell 'gainſt our Saviour, ſo theſe</l>
+               <l>Of our <hi>Sanhedrim</hi> with the <hi>Libertine,</hi>
+               </l>
+               <l>In ſuch a Parliament did now combine</l>
+               <l>'Gainſt Chriſt's <hi>Anointed;</hi> where in vaine they ſought</l>
+               <l>Him to ſurprize, 'till they Him alſo Bought,</l>
+               <l>And <hi>Covenanted</hi> with the <hi>Scot</hi> for Gold,</l>
+               <l>Who <hi>Judas</hi>-like, his Native Maſter ſold.</l>
+               <l>Then as the Dove in th' Talons of the Kite,</l>
+               <l>Secur'd by's Rebels in the <hi>Iſle of Wight:</hi>
+               </l>
+               <l>Where (as Chriſt in the Garden was) for Pray'r</l>
+               <l>Secluded, and devoted to prepare</l>
+               <l>Himſelfe, for th'houre He knew was drawing nigh</l>
+               <l>To apprehend Him, they a Company</l>
+               <l>Of Treacherous villaines ſent Him to betray,</l>
+               <l>And by that <hi>Kiſſe of Treaty</hi> lead the way</l>
+               <pb n="5" facs="tcp:165189:5"/>
+               <l>For them to gripe Him; then hir'd the loud cry</l>
+               <l>Of th' Multitude, that ſhould ſay, Crucifie.</l>
+               <l>Yet ſome of th' <hi>Jewiſh</hi> Jury could confeſſe</l>
+               <l>(Like <hi>Pilate</hi>) that they found their Lord Guiltleſſe;</l>
+               <l>Waſhing their hands, not hearts, ſaying they ſaw</l>
+               <l>No fault in Him; but ye have made a Law</l>
+               <l>(Said thoſe diſſenting Lords) whereby 'tis fit,</l>
+               <l>We to your Swords, Him (and our ſelves) ſubmit:</l>
+               <l>So His life He laid down, for th'ſins of's Foes</l>
+               <l>(Like Chriſt) for the peculiar faults of thoſe</l>
+               <l>That ſhed His Bloud; who their good King accus'd</l>
+               <l>Of th'ſalfe-ſame Crimes, wherewith they Him abus'd.</l>
+               <l>In all things <hi>Chriſt's</hi> true Picture, and who dies</l>
+               <l>So like's Redeemer, I dare Canonize.</l>
+               <l>And for that Earthly Crown which here He bare</l>
+               <l>(That Crown of Thornes ſo full of prickling Care,</l>
+               <l>And ſharpe Afflictions) I dare averre this,</l>
+               <l>He wears <hi>Martyrs</hi> one in <hi>Paradiſe.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
